@@ -184,7 +184,7 @@ def main_menu():
     while True:
        
         print("\n===== Welcome =====")
-        print("1. Member Section")lcome =====")
+        print("1. Member Section")
         print("2. Trainer Section")
         print("3. Exit")
 
