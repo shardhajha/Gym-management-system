@@ -182,9 +182,9 @@ def trainer_menu():
 
 def main_menu():
     while True:
+       
         print("\n===== Welcome =====")
-        print("\n===== Gym Management System =====")
-        print("1. Member Section")
+        print("1. Member Section")lcome =====")
         print("2. Trainer Section")
         print("3. Exit")
 
