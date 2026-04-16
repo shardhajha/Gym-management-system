@@ -182,7 +182,7 @@ def trainer_menu():
 
 def main_menu():
     while True:
-        print("\n===== Welcome To Snarsha =====")
+        print("\n===== Welcome =====")
         print("\n===== Gym Management System =====")
         print("1. Member Section")
         print("2. Trainer Section")
